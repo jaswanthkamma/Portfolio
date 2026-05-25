@@ -11,7 +11,7 @@ export default function Portfolio() {
   const stats = [
     { value: '10+', label: 'Projects Built' },
     { value: '1+', label: 'Industry Internship' },
-    { value: '8.5+', label: 'CGPA' },
+    { value: '7.5+', label: 'CGPA' },
     { value: '2+', label: 'Certifications' },
   ];
 
@@ -121,7 +121,7 @@ export default function Portfolio() {
               AI/ML ENGINEER & DATA ENTHUSIAST
             </div>
 
-            <h1 style={{ fontSize: 'clamp(3.2rem, 6vw, 6.4rem)', lineHeight: 0.96, margin: 0, fontWeight: 900, maxWidth: 900 }}>
+            <h1 style={{ fontSize: 'clamp(2.4rem, 4.2vw, 4.8rem)', lineHeight: 0.96, margin: 0, fontWeight: 900, maxWidth: 900 }}>
               Building Intelligent Systems
               <span style={{ color: '#3b82f6' }}> That Solve Real-World Problems.</span>
             </h1>
